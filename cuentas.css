@@ -1,0 +1,188 @@
+								
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div.cont-name-c{
+	background-color: white;
+	height: auto;
+	position: fixed;
+	width: 100%;
+	}
+
+.nombre-app-c{
+	background-color: white;
+	color: #284ACC;
+	font-family: Lato;
+	font-size: 18px;
+	padding-bottom: 5px;
+	text-align: left;
+	margin-top: 1vh;
+	margin-left: 10px;
+	margin-right: 0px;
+	}
+	
+.foto-de-perfil-c{
+	border: 6px solid white;
+	border-radius: 100px;
+	margin-top: 30vh;
+	margin-left: 5px;
+	height: 90px;
+	width: 90px;
+	}	
+
+.nombre-de-usuario-c{
+	color: #27272B;
+	font-size: 15px;
+	margin-top: 2px;
+	margin-left: 7px;
+	margin-right: 8.5px;
+	margin-bottom: 0px;
+	}
+	
+.spam-apodo-c{
+	color: #00AFF0;
+	font-size: 12px;
+	margin-left: 7px;
+	}
+
+.info-c{
+	color: #131313;
+	font-size: 10px;
+	margin-top: 4px;
+	margin-left: 7px;
+	}
+
+div.contenedor-b1-c{
+	background-color: #00AFF0;
+	border: 0px solid #27272B;
+	border-radius: 0px 100px 100px 100px;
+	height: auto;
+	margin-top: 5px;
+	margin-left: 7px;
+	max-width: 90%;
+	padding-top: 4px;
+	padding-left: 2px;
+	padding-bottom: 4px;
+	padding-right: 4px;
+	width: 100%;
+	}
+	
+.text-cb1-c{
+	color: white;
+	font-sise 14px;
+	margin-left: 6px;
+	margin-top: 0px;
+	}
+	
+div.cont-link-c{
+	border-bottom: 2px solid black;
+	height: 30px;
+	padding-left: 15px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	margin-top: 15px;
+	max-width: 100%;
+	width: 100%;
+	}
+	
+.link1-c{
+	color: #10252A;
+	display: inline;
+	font-size: 15px;
+	padding: 2.5px;
+	margin-right: 15px;
+	margin-bottom: 5px;
+	}
+	
+.link2-c{
+	color: ;
+	display: inline;
+	font-size: 15px;
+	margin-right: 15px;
+	}	
+	
+a{
+	color: blue;
+	}
+	
+.a1{
+	color: transparent;
+	}
+	
+.text-text-c{
+	color: #272727;
+	font-size: 15px;
+	text-align: center;
+	margin-top: 20px;
+	}
+	
+div.contenedor-public-c{
+	background-color: white;
+	backdrop-filter: blur(5px);
+	height: auto;
+	top: 0;
+	left: 0;
+	padding: 7.5px 7.5px;
+	max-width: 100%;
+	width: 100%;
+	}
+	
+.img-p-p-c{
+	border: 3px solid #00AFF0;
+	border-radius: 100px;
+	display: inline;
+	float: right;
+	height: 50px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	width: 50px;
+	}
+	
+.name-p-c{
+	color: #00AFF0;
+	font-size: 13px;
+	margin-left: 5px;
+	margin-top: 5px;
+	}
+	
+.spam-p-c{
+	color: #082555;
+	font-size: 11px;
+	}
+	
+.spam-p1-c{
+	color: gray;
+	font-size: 10px;
+	margin-left: 5px;
+	}
+	
+.spam-pie{
+	color: #222222;
+	font-size: 13.5px;
+	margin-left: 5px;
+	}
+	
+.img-i-p-c{
+	height: auto;
+	margin-bottom: 10px;
+	width: 100%;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
